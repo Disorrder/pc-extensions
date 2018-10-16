@@ -1,3 +1,1 @@
-export default Object.assign({}, 
-    require('./serialize'),
-);
+export * from './serialize';
