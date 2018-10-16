@@ -1,5 +1,5 @@
 import './extensions';
-export * from './modules';
+export * from './components';
 export * from './utils';
 
 if (!VERSION) {
