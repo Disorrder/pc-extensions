@@ -1,7 +1,7 @@
 {
   "name": "pc-extensions",
   "description": "",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "dist/pc-extensions.js",
   "module": "src/index.js",
   "scripts": {
